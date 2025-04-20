@@ -1,4 +1,4 @@
-# ai-project
+# ML-project
 import gymnasium as gym
 import random
 import numpy as np
